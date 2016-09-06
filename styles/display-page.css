@@ -1,0 +1,42 @@
+main {
+	font-size: 0pt;
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 100px;
+}
+
+.fifty {
+	height: 200px;
+	display: inline-block;
+	width: 50%;
+	border: 1px solid;
+}
+
+.blue {
+	background-color: blue;
+}
+
+.green {
+	background-color: green;
+}
+
+.thirty {
+	height: 300px;
+	display: inline-block;
+	width: 33.33%;
+	border: 1px solid;
+}
+
+.gray {
+	background-color: gray;
+}
+
+.black {
+	background-color: black;
+}
+
+.yellow {
+	background-color: gold;
+}
+
